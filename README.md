@@ -134,6 +134,8 @@ El voltaje inducido en una bobina es directamente proporcional al flujo magnéti
 20 Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina
 de 500 vueltas colocada en el campo magnético?
 
+![20](https://user-images.githubusercontent.com/105374903/178081030-51d365cb-4a0f-4581-9016-cd3259bc8d59.jpg)
+
 22 En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
 La inserción del diente de acero reduce la reluctancia del entrehierro lo cual provoca que el flojo magnético aumenta sin embargo cuando no tenemos el diente de acero no hay campo magnético cambiante por lo tanto no hay voltaje inducido
