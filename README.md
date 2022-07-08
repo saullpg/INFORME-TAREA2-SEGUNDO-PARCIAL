@@ -120,6 +120,8 @@ de 500 vueltas colocada en el campo magnético?
 
 22 En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
+La inserción del diente de acero reduce la reluctancia del entrehierro lo cual provoca que el flojo magnético aumenta sin embargo cuando no tenemos el diente de acero no hay campo magnético cambiante por lo tanto no hay voltaje inducido
+
 #### 4. VIDEO
 
 #### 5. CONCLUSIONES
