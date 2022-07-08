@@ -91,6 +91,8 @@ flujo en teslas.
 6 ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través
 del conductor se invierte?
 
+Cuando se invierte la corriente las líneas del campo magnético van en dirección contraria de las manecillas del reloj
+
 8 Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08
 m2 si la permeabilidad absoluta es de
 
