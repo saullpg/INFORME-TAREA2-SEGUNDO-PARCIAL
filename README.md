@@ -17,6 +17,7 @@
 ### EJERCICIOS CAPITULO 9
 
 2 Evalúe cada determinante:
+
 ![2](https://user-images.githubusercontent.com/105374903/178077076-6dd43263-7ee9-4e59-a114-a7e42c409ca4.jpg)
 
 4 Evalúe cada uno de los determinantes:
