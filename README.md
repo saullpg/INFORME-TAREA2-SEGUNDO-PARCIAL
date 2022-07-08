@@ -35,8 +35,9 @@
 
 12 Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
-![12a](https://user-images.githubusercontent.com/105374903/178077200-d4d84dd4-f3d4-47f7-acc9-f22a11f6fa65.jpg)
 ![12b](https://user-images.githubusercontent.com/105374903/178077208-bbbc2b16-ebe8-4daa-b4ff-73f14bc06ef2.jpg)
+![12a](https://user-images.githubusercontent.com/105374903/178077200-d4d84dd4-f3d4-47f7-acc9-f22a11f6fa65.jpg)
+
 
 14 Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 ![14a](https://user-images.githubusercontent.com/105374903/178077220-6c1cb49d-e485-40ef-a85a-5b81306a0757.jpg)
