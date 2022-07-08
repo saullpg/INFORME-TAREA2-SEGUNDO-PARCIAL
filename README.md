@@ -63,6 +63,7 @@
 
 24 Cuando se conecta un resistor de 10 kohm desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?
+
 ![24a](https://user-images.githubusercontent.com/105374903/178077341-7210f025-0721-491f-96c6-62572c03c685.jpg)
 ![24b](https://user-images.githubusercontent.com/105374903/178077349-8b82b93d-1425-4450-bce6-bec41702e137.jpg)
 ![24c](https://user-images.githubusercontent.com/105374903/178077357-c5e98caa-cbd2-424c-adc3-b87f2969a3f4.jpg)
