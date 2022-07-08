@@ -81,9 +81,36 @@ voltajes de nodo.
 ![28b](https://user-images.githubusercontent.com/105374903/178077400-4aaad280-27e0-4aa5-a685-310ba6b8396e.jpg)
 ![28c](https://user-images.githubusercontent.com/105374903/178077411-6ca8a055-f411-455e-9154-ae4bcc7c28ed.jpg)
 
-
-
 ### EJERCICIOS CAPITULO 10
+2 En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
+¿Cuál es la densidad de flujo?
+
+4 En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
+flujo en teslas.
+
+6 ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través
+del conductor se invierte?
+
+8 Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08
+m2 si la permeabilidad absoluta es de
+
+10 De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+12 Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
+el interruptor 1 (SW1) se cierra.
+
+14 ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+16 En la figura 10-44, hay 500 vueltas. Determine
+(a) H (b) f (c) B
+
+18 De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de
+cambio del flujo magnético se duplica?
+
+20 Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina
+de 500 vueltas colocada en el campo magnético?
+
+22 En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
 #### 4. VIDEO
 
