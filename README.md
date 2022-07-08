@@ -47,6 +47,7 @@
 ![16](https://user-images.githubusercontent.com/105374903/178077256-b17e52d5-0c17-4d3e-b324-c8d17e00a10c.jpg)
 
 18 Determine las corrientes de rama en la figura 9-28.
+
 ![18a](https://user-images.githubusercontent.com/105374903/178077279-72b9bcd7-3469-45d7-8cb3-4db9dbde7391.jpg)
 ![18b](https://user-images.githubusercontent.com/105374903/178077286-531cf47f-c049-448c-83b0-53a2542dff02.jpg)
 
