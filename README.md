@@ -98,6 +98,8 @@ m2 si la permeabilidad absoluta es de
 
 10 De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
+Cuando se activa un solenoide se retrae el embolo y comprime el resorte siempre y cuando exista corriente en la bobina.
+
 12 Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
 el interruptor 1 (SW1) se cierra.
 
