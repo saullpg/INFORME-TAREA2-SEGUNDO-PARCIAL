@@ -85,16 +85,24 @@ voltajes de nodo.
 2 En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
 ¿Cuál es la densidad de flujo?
 
+![2](https://user-images.githubusercontent.com/105374903/178080868-40688a6b-1e5b-443c-b4b7-78e467eda67d.jpg)
+
 4 En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de
 flujo en teslas.
 
+![4](https://user-images.githubusercontent.com/105374903/178080881-573873be-1524-4fe3-b652-4eb0b942ce04.jpg)
+
 6 ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través
 del conductor se invierte?
+
+![6](https://user-images.githubusercontent.com/105374903/178080894-760b1326-145d-4f99-9b10-30bb3c333bbb.jpg)
 
 Cuando se invierte la corriente las líneas del campo magnético van en dirección contraria de las manecillas del reloj
 
 8 Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08
 m2 si la permeabilidad absoluta es de
+
+![8](https://user-images.githubusercontent.com/105374903/178080899-b7aa0115-1789-4c30-acab-c18319dfdd41.jpg)
 
 10 De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
@@ -103,12 +111,20 @@ Cuando se activa un solenoide se retrae el embolo y comprime el resorte siempre 
 12 Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
 el interruptor 1 (SW1) se cierra.
 
+![12](https://user-images.githubusercontent.com/105374903/178080919-ea8373a2-9fdc-480f-98a7-52f06fa31aa6.jpg)
+
 Cuando el interruptor 1 (SW1) se cierra las bobinas comienza a almacenar energía lo cual genera un campo eléctrico que permite que se encienda la lámpara 2 y la lampara 1 igual se encendería por el voltaje de 9v suministrado a esta lámpara
 
 14 ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
 
+![14](https://user-images.githubusercontent.com/105374903/178080931-ac9531d0-60f9-42e3-8376-d270bf1f0ca7.jpg)
+
 16 En la figura 10-44, hay 500 vueltas. Determine
 (a) H (b) f (c) B
+
+![16a](https://user-images.githubusercontent.com/105374903/178080944-9465a23a-bee7-4574-a6d2-f2e8a79332b0.jpg)
+
+![16](https://user-images.githubusercontent.com/105374903/178080953-75083eac-7ef5-4cf4-97dc-8c255e75df76.jpg)
 
 18 De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de
 cambio del flujo magnético se duplica?
