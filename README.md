@@ -113,6 +113,8 @@ Cuando el interruptor 1 (SW1) se cierra las bobinas comienza a almacenar energí
 18 De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de
 cambio del flujo magnético se duplica?
 
+El voltaje inducido en una bobina es directamente proporcional al flujo magnético por lo tanto si se duplica el flujo magnético también se duplica el voltaje
+
 20 Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina
 de 500 vueltas colocada en el campo magnético?
 
