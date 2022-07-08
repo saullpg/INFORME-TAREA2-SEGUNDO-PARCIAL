@@ -103,6 +103,8 @@ Cuando se activa un solenoide se retrae el embolo y comprime el resorte siempre 
 12 Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando
 el interruptor 1 (SW1) se cierra.
 
+Cuando el interruptor 1 (SW1) se cierra las bobinas comienza a almacenar energía lo cual genera un campo eléctrico que permite que se encienda la lámpara 2 y la lampara 1 igual se encendería por el voltaje de 9v suministrado a esta lámpara
+
 14 ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
 
 16 En la figura 10-44, hay 500 vueltas. Determine
