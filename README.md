@@ -3,13 +3,19 @@
 #### 1. OBJETIVO
 ##### 1.1. OBJETIVO GENERAL
 
-- Implementar la ley de ohm y potencia en circuitos eléctricos básicos.  
+-  Aplicar los métodos correspondientes para la solución de circuitos.
+-  Conocer las características y aplicaciones del magentismo y electromagnetismo.
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-- Identificar la relación de Voltaje,Corriente y Resistencia.
-- Conocer los pasos para la localización de fallas.
-- Calcular la potencia en un circuito.
+- Aplicar el método de corriente en ramas.
+- Aplicar el método de corriente en trayectorias cerradas.
+- Aplicar el método de voltaje en los nodos. 
+- Identificar los principios del campo magnético.
+- Identificar los principios del electromagnetismo.
+- Analizar la histérisis magnética.
+- Analizar el principio de inducción electromagnética y sus aplicaciones.
+
 
 #### 2. MARCO TEORICO
 
@@ -144,6 +150,11 @@ La inserción del diente de acero reduce la reluctancia del entrehierro lo cual 
 
 #### 5. CONCLUSIONES
 
+- Existen diferentes maneras de resolver un circuito eléctrico sin embargo debemos reconoer cual de los métodos aprendidos es el apropiado para obtener la solución del circuito.
+- Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen.
+- Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
+- Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande
+es el voltaje inducido.
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
