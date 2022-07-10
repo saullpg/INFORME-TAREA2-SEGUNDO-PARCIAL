@@ -88,7 +88,7 @@ voltajes de nodo.
 ![28c](https://user-images.githubusercontent.com/105374903/178077411-6ca8a055-f411-455e-9154-ae4bcc7c28ed.jpg)
 
 ### EJERCICIOS CAPITULO 10
-2 En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb.
+2 En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 uWb.
 ¿Cuál es la densidad de flujo?
 
 ![2](https://user-images.githubusercontent.com/105374903/178080868-40688a6b-1e5b-443c-b4b7-78e467eda67d.jpg)
