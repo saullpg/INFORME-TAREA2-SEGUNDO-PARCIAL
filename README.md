@@ -106,7 +106,7 @@ del conductor se invierte?
 Cuando se invierte la corriente las líneas del campo magnético van en dirección contraria de las manecillas del reloj
 
 8 Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08
-m2 si la permeabilidad absoluta es de
+m2 si la permeabilidad absoluta es de 150*10^-7
 
 ![8](https://user-images.githubusercontent.com/105374903/178146284-be64bab0-b9bd-4ae2-940f-9e97fc55daab.jpg)
 
