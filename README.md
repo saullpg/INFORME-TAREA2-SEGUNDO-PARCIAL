@@ -148,6 +148,8 @@ La inserción del diente de acero reduce la reluctancia del entrehierro lo cual 
 
 #### 4. VIDEO
 
+https://www.youtube.com/watch?v=EB2VyM84xng
+
 #### 5. CONCLUSIONES
 
 - Existen diferentes maneras de resolver un circuito eléctrico sin embargo debemos reconoer cual de los métodos aprendidos es el apropiado para obtener la solución del circuito.
