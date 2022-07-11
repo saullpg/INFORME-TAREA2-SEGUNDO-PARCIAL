@@ -19,6 +19,10 @@
 
 #### 2. MARCO TEORICO
 
+![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/178361785-3521a4c0-8ea1-47ce-be8f-aaf5e170ecde.png)
+
+![Diagrama en blanco](https://user-images.githubusercontent.com/105374903/178361814-f272d619-3c00-4c57-acb0-9a80fbb10fae.png)
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 ### EJERCICIOS CAPITULO 9
 
